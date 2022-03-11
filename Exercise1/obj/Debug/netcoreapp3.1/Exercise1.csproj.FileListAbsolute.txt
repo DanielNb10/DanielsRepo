@@ -1,0 +1,14 @@
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+D:\Homeworks C#\Homework1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.AssemblyReference.cache
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+D:\Homeworks C#\Homework1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
